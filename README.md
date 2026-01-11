@@ -1,16 +1,22 @@
-## Hi there 👋
+# Shaikh Umar
 
-<!--
-**iamshaikhumar/iamshaikhumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Director of Data Engineering | Cloud Data Platforms | Security-Aware Analytics | GenAI Evaluation
 
-Here are some ideas to get you started:
+I design and lead modern data platforms in the public sector, with a focus on reliability,
+governance, and security-by-design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This GitHub is where I intend to publish reference architectures, labs, and technical notes that reflect
+how production data systems should be built — using synthetic data and generalized designs only.
+
+## Areas of focus
+- Azure data platform architecture (batch and streaming)
+- Data quality, observability, and governance
+- Secure data pipelines and threat-aware design
+- GenAI for analytics, with evaluation and guardrails
+- Eureka moments from my own experience
+
+## What this is (and is not)
+- Reference implementations
+- No proprietary or confidential state data
+
+Opinions expressed here are my own.
